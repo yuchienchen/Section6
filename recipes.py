@@ -14,7 +14,7 @@ def read_dict_from_file(filename):
         for line in file: 
             line = line.strip()
             print(line)
-            # if filename.endwith('pantry.txt') :
+            if filename.endwith('pantry.txt') :
                 
 
 
